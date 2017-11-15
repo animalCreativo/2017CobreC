@@ -22,7 +22,31 @@
 		562D6BEE1E47E541005409EA /* Producto1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562D6BED1E47E541005409EA /* Producto1ViewController.swift */; };
 		562D6BF01E47E961005409EA /* Producto2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562D6BEF1E47E961005409EA /* Producto2ViewController.swift */; };
 		562D6BF21E47E977005409EA /* Producto3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562D6BF11E47E977005409EA /* Producto3ViewController.swift */; };
-		562D6BF41E47E9E2005409EA /* P1UnoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562D6BF31E47E9E2005409EA /* P1UnoViewController.swift */; };
+		5638026F1F5E4BC900FF6756 /* Producto2Slide3BViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5638026E1F5E4BC900FF6756 /* Producto2Slide3BViewController.swift */; };
+		563802711F5E4BE000FF6756 /* Producto2Slide3CViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 563802701F5E4BE000FF6756 /* Producto2Slide3CViewController.swift */; };
+		563802731F5E51B300FF6756 /* Producto2Slide5ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 563802721F5E51B300FF6756 /* Producto2Slide5ViewController.swift */; };
+		564C30C91F5E368000873842 /* Producto2Silde1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 564C30C81F5E368000873842 /* Producto2Silde1ViewController.swift */; };
+		564C30CB1F5E369800873842 /* Producto2Slide2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 564C30CA1F5E369800873842 /* Producto2Slide2ViewController.swift */; };
+		564C30CD1F5E36B200873842 /* Producto2Slide3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 564C30CC1F5E36B200873842 /* Producto2Slide3ViewController.swift */; };
+		564C30CF1F5E36D100873842 /* Producto2Slide4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 564C30CE1F5E36D100873842 /* Producto2Slide4ViewController.swift */; };
+		565E5FA41F5DCC1E00F1DD72 /* Producto1Slide1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 565E5FA31F5DCC1E00F1DD72 /* Producto1Slide1ViewController.swift */; };
+		565E5FA61F5DCDBC00F1DD72 /* Producto1Slide2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 565E5FA51F5DCDBC00F1DD72 /* Producto1Slide2ViewController.swift */; };
+		565E5FA81F5DCDE800F1DD72 /* Producto1Slide3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 565E5FA71F5DCDE800F1DD72 /* Producto1Slide3ViewController.swift */; };
+		565E5FAA1F5DCE0900F1DD72 /* Producto1Slide4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 565E5FA91F5DCE0900F1DD72 /* Producto1Slide4ViewController.swift */; };
+		565E5FAC1F5DDEB000F1DD72 /* Producto2Slide0ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 565E5FAB1F5DDEB000F1DD72 /* Producto2Slide0ViewController.swift */; };
+		5663185D1F65E69700267084 /* Producto2Slide2PopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5663185C1F65E69700267084 /* Producto2Slide2PopViewController.swift */; };
+		566318601F662C0400267084 /* popFaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5663185F1F662C0400267084 /* popFaViewController.swift */; };
+		566318621F662C1300267084 /* popFbViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566318611F662C1300267084 /* popFbViewController.swift */; };
+		566318641F662C1E00267084 /* popFcViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566318631F662C1E00267084 /* popFcViewController.swift */; };
+		566318661F662C2D00267084 /* popFdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566318651F662C2D00267084 /* popFdViewController.swift */; };
+		566318681F663BAF00267084 /* Producto2Slide3AViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566318671F663BAF00267084 /* Producto2Slide3AViewController.swift */; };
+		5663186A1F663E9500267084 /* popDViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566318691F663E9500267084 /* popDViewController.swift */; };
+		5663186C1F663EA400267084 /* popEViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5663186B1F663EA400267084 /* popEViewController.swift */; };
+		5663186E1F66414F00267084 /* popCViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5663186D1F66414F00267084 /* popCViewController.swift */; };
+		566318701F66415C00267084 /* popAViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5663186F1F66415C00267084 /* popAViewController.swift */; };
+		566318721F66458E00267084 /* popBViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566318711F66458E00267084 /* popBViewController.swift */; };
+		5682AE771F688DC100337399 /* ForteReferenciaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5682AE761F688DC100337399 /* ForteReferenciaViewController.swift */; };
+		569D890E1F62D6F8007724E3 /* ForteDPopAViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 569D890D1F62D6F8007724E3 /* ForteDPopAViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,7 +89,31 @@
 		562D6BED1E47E541005409EA /* Producto1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Producto1ViewController.swift; sourceTree = "<group>"; };
 		562D6BEF1E47E961005409EA /* Producto2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Producto2ViewController.swift; sourceTree = "<group>"; };
 		562D6BF11E47E977005409EA /* Producto3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Producto3ViewController.swift; sourceTree = "<group>"; };
-		562D6BF31E47E9E2005409EA /* P1UnoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = P1UnoViewController.swift; sourceTree = "<group>"; };
+		5638026E1F5E4BC900FF6756 /* Producto2Slide3BViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Producto2Slide3BViewController.swift; sourceTree = "<group>"; };
+		563802701F5E4BE000FF6756 /* Producto2Slide3CViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Producto2Slide3CViewController.swift; sourceTree = "<group>"; };
+		563802721F5E51B300FF6756 /* Producto2Slide5ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Producto2Slide5ViewController.swift; sourceTree = "<group>"; };
+		564C30C81F5E368000873842 /* Producto2Silde1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Producto2Silde1ViewController.swift; sourceTree = "<group>"; };
+		564C30CA1F5E369800873842 /* Producto2Slide2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Producto2Slide2ViewController.swift; sourceTree = "<group>"; };
+		564C30CC1F5E36B200873842 /* Producto2Slide3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Producto2Slide3ViewController.swift; sourceTree = "<group>"; };
+		564C30CE1F5E36D100873842 /* Producto2Slide4ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Producto2Slide4ViewController.swift; sourceTree = "<group>"; };
+		565E5FA31F5DCC1E00F1DD72 /* Producto1Slide1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Producto1Slide1ViewController.swift; sourceTree = "<group>"; };
+		565E5FA51F5DCDBC00F1DD72 /* Producto1Slide2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Producto1Slide2ViewController.swift; sourceTree = "<group>"; };
+		565E5FA71F5DCDE800F1DD72 /* Producto1Slide3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Producto1Slide3ViewController.swift; sourceTree = "<group>"; };
+		565E5FA91F5DCE0900F1DD72 /* Producto1Slide4ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Producto1Slide4ViewController.swift; sourceTree = "<group>"; };
+		565E5FAB1F5DDEB000F1DD72 /* Producto2Slide0ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Producto2Slide0ViewController.swift; sourceTree = "<group>"; };
+		5663185C1F65E69700267084 /* Producto2Slide2PopViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Producto2Slide2PopViewController.swift; sourceTree = "<group>"; };
+		5663185F1F662C0400267084 /* popFaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = popFaViewController.swift; sourceTree = "<group>"; };
+		566318611F662C1300267084 /* popFbViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = popFbViewController.swift; sourceTree = "<group>"; };
+		566318631F662C1E00267084 /* popFcViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = popFcViewController.swift; sourceTree = "<group>"; };
+		566318651F662C2D00267084 /* popFdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = popFdViewController.swift; sourceTree = "<group>"; };
+		566318671F663BAF00267084 /* Producto2Slide3AViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Producto2Slide3AViewController.swift; sourceTree = "<group>"; };
+		566318691F663E9500267084 /* popDViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = popDViewController.swift; sourceTree = "<group>"; };
+		5663186B1F663EA400267084 /* popEViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = popEViewController.swift; sourceTree = "<group>"; };
+		5663186D1F66414F00267084 /* popCViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = popCViewController.swift; sourceTree = "<group>"; };
+		5663186F1F66415C00267084 /* popAViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = popAViewController.swift; sourceTree = "<group>"; };
+		566318711F66458E00267084 /* popBViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = popBViewController.swift; sourceTree = "<group>"; };
+		5682AE761F688DC100337399 /* ForteReferenciaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForteReferenciaViewController.swift; sourceTree = "<group>"; };
+		569D890D1F62D6F8007724E3 /* ForteDPopAViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForteDPopAViewController.swift; sourceTree = "<group>"; };
 		82DFB86999D650F381044092 /* Pods-galderma2017.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-galderma2017.debug.xcconfig"; path = "Pods/Target Support Files/Pods-galderma2017/Pods-galderma2017.debug.xcconfig"; sourceTree = "<group>"; };
 		DE8D2E957A7F2FB3CB6BDA85 /* Pods_galderma2017.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_galderma2017.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFF7098E3337B9B092247E39 /* Pods-galderma2017.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-galderma2017.release.xcconfig"; path = "Pods/Target Support Files/Pods-galderma2017/Pods-galderma2017.release.xcconfig"; sourceTree = "<group>"; };
@@ -123,6 +171,7 @@
 		562D6BAC1E47C6AA005409EA /* galderma2017 */ = {
 			isa = PBXGroup;
 			children = (
+				5663185E1F662BEB00267084 /* pop */,
 				562D6BEA1E47D58F005409EA /* Producto3 */,
 				562D6BE91E47D586005409EA /* Producto2 */,
 				562D6BE81E47D576005409EA /* Producto1 */,
@@ -178,8 +227,13 @@
 		562D6BE81E47D576005409EA /* Producto1 */ = {
 			isa = PBXGroup;
 			children = (
+				5682AE761F688DC100337399 /* ForteReferenciaViewController.swift */,
 				562D6BED1E47E541005409EA /* Producto1ViewController.swift */,
-				562D6BF31E47E9E2005409EA /* P1UnoViewController.swift */,
+				565E5FA31F5DCC1E00F1DD72 /* Producto1Slide1ViewController.swift */,
+				565E5FA51F5DCDBC00F1DD72 /* Producto1Slide2ViewController.swift */,
+				565E5FA71F5DCDE800F1DD72 /* Producto1Slide3ViewController.swift */,
+				569D890D1F62D6F8007724E3 /* ForteDPopAViewController.swift */,
+				565E5FA91F5DCE0900F1DD72 /* Producto1Slide4ViewController.swift */,
 			);
 			name = Producto1;
 			sourceTree = "<group>";
@@ -188,6 +242,16 @@
 			isa = PBXGroup;
 			children = (
 				562D6BEF1E47E961005409EA /* Producto2ViewController.swift */,
+				565E5FAB1F5DDEB000F1DD72 /* Producto2Slide0ViewController.swift */,
+				564C30C81F5E368000873842 /* Producto2Silde1ViewController.swift */,
+				564C30CA1F5E369800873842 /* Producto2Slide2ViewController.swift */,
+				564C30CC1F5E36B200873842 /* Producto2Slide3ViewController.swift */,
+				564C30CE1F5E36D100873842 /* Producto2Slide4ViewController.swift */,
+				5638026E1F5E4BC900FF6756 /* Producto2Slide3BViewController.swift */,
+				563802701F5E4BE000FF6756 /* Producto2Slide3CViewController.swift */,
+				563802721F5E51B300FF6756 /* Producto2Slide5ViewController.swift */,
+				5663185C1F65E69700267084 /* Producto2Slide2PopViewController.swift */,
+				566318671F663BAF00267084 /* Producto2Slide3AViewController.swift */,
 			);
 			name = Producto2;
 			sourceTree = "<group>";
@@ -198,6 +262,22 @@
 				562D6BF11E47E977005409EA /* Producto3ViewController.swift */,
 			);
 			name = Producto3;
+			sourceTree = "<group>";
+		};
+		5663185E1F662BEB00267084 /* pop */ = {
+			isa = PBXGroup;
+			children = (
+				5663185F1F662C0400267084 /* popFaViewController.swift */,
+				566318611F662C1300267084 /* popFbViewController.swift */,
+				566318631F662C1E00267084 /* popFcViewController.swift */,
+				566318651F662C2D00267084 /* popFdViewController.swift */,
+				566318691F663E9500267084 /* popDViewController.swift */,
+				5663186B1F663EA400267084 /* popEViewController.swift */,
+				5663186D1F66414F00267084 /* popCViewController.swift */,
+				5663186F1F66415C00267084 /* popAViewController.swift */,
+				566318711F66458E00267084 /* popBViewController.swift */,
+			);
+			name = pop;
 			sourceTree = "<group>";
 		};
 		DC42E42AD458AF75E658510F /* Pods */ = {
@@ -408,14 +488,38 @@
 			buildActionMask = 2147483647;
 			files = (
 				562D6BEC1E47DD9E005409EA /* ViewController.swift in Sources */,
+				565E5FAC1F5DDEB000F1DD72 /* Producto2Slide0ViewController.swift in Sources */,
+				566318661F662C2D00267084 /* popFdViewController.swift in Sources */,
+				566318721F66458E00267084 /* popBViewController.swift in Sources */,
 				562D6BB61E47C6AA005409EA /* galderma2017.xcdatamodeld in Sources */,
+				565E5FA41F5DCC1E00F1DD72 /* Producto1Slide1ViewController.swift in Sources */,
+				5663186C1F663EA400267084 /* popEViewController.swift in Sources */,
+				566318701F66415C00267084 /* popAViewController.swift in Sources */,
+				569D890E1F62D6F8007724E3 /* ForteDPopAViewController.swift in Sources */,
+				565E5FAA1F5DCE0900F1DD72 /* Producto1Slide4ViewController.swift in Sources */,
+				563802731F5E51B300FF6756 /* Producto2Slide5ViewController.swift in Sources */,
 				562D6BF21E47E977005409EA /* Producto3ViewController.swift in Sources */,
+				5663186E1F66414F00267084 /* popCViewController.swift in Sources */,
+				5663185D1F65E69700267084 /* Producto2Slide2PopViewController.swift in Sources */,
+				563802711F5E4BE000FF6756 /* Producto2Slide3CViewController.swift in Sources */,
+				5638026F1F5E4BC900FF6756 /* Producto2Slide3BViewController.swift in Sources */,
+				566318601F662C0400267084 /* popFaViewController.swift in Sources */,
+				565E5FA81F5DCDE800F1DD72 /* Producto1Slide3ViewController.swift in Sources */,
+				566318641F662C1E00267084 /* popFcViewController.swift in Sources */,
 				562D6BEE1E47E541005409EA /* Producto1ViewController.swift in Sources */,
+				565E5FA61F5DCDBC00F1DD72 /* Producto1Slide2ViewController.swift in Sources */,
 				562D6BE61E47D54A005409EA /* PrincipalViewController.swift in Sources */,
 				562D6BAE1E47C6AA005409EA /* AppDelegate.swift in Sources */,
-				562D6BF41E47E9E2005409EA /* P1UnoViewController.swift in Sources */,
+				564C30CF1F5E36D100873842 /* Producto2Slide4ViewController.swift in Sources */,
+				566318621F662C1300267084 /* popFbViewController.swift in Sources */,
+				5663186A1F663E9500267084 /* popDViewController.swift in Sources */,
+				564C30CD1F5E36B200873842 /* Producto2Slide3ViewController.swift in Sources */,
 				562D6BE41E47C720005409EA /* SWRevealViewController.m in Sources */,
+				5682AE771F688DC100337399 /* ForteReferenciaViewController.swift in Sources */,
+				564C30CB1F5E369800873842 /* Producto2Slide2ViewController.swift in Sources */,
+				566318681F663BAF00267084 /* Producto2Slide3AViewController.swift in Sources */,
 				562D6BF01E47E961005409EA /* Producto2ViewController.swift in Sources */,
+				564C30C91F5E368000873842 /* Producto2Silde1ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -572,8 +676,9 @@
 				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = 9YRZ67W2T5;
 				INFOPLIST_FILE = galderma2017/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = concorSwiftSpring.com.RentalApps.galderma2017;
+				PRODUCT_BUNDLE_IDENTIFIER = concorSwiftSpring.com.RentalApps.galderma2017CobreC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "galderma2017/galderma2017-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -590,8 +695,9 @@
 				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = 9YRZ67W2T5;
 				INFOPLIST_FILE = galderma2017/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = concorSwiftSpring.com.RentalApps.galderma2017;
+				PRODUCT_BUNDLE_IDENTIFIER = concorSwiftSpring.com.RentalApps.galderma2017CobreC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "galderma2017/galderma2017-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;

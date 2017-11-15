@@ -104,6 +104,7 @@ public class Spring : NSObject {
     private var alpha: CGFloat { get { return view.alpha } set { view.alpha = newValue } }
     
     public enum AnimationPreset: String {
+        case PaperLeft = "paperLeft"
         case AnimalPop = "animalPop"
         case SlideLeft = "slideLeft"
         case SlideRight = "slideRight"
@@ -264,6 +265,24 @@ public class Spring : NSObject {
                 animation.repeatCount = repeatCount
                 animation.beginTime = CACurrentMediaTime() + CFTimeInterval(delay)
                 layer.add(animation, forKey: "animalPop")
+            case .PaperLeft:
+                rotate = 0
+                scaleX = 1
+                scaleY = 1
+                var perspective = CATransform3DIdentity
+                perspective.m34 = 1.0 / layer.frame.size.width/2
+                
+                let animation = CABasicAnimation()
+                animation.keyPath = "transform"
+                animation.fromValue = NSValue(caTransform3D: CATransform3DMakeRotation(0, 0, 0, 0))
+                animation.toValue = NSValue(caTransform3D:
+                    CATransform3DConcat(perspective, CATransform3DMakeRotation(1, 0, CGFloat(Double.pi), 0)))
+                animation.duration = CFTimeInterval(duration)
+                animation.beginTime = CACurrentMediaTime() + CFTimeInterval(delay)
+                animation.timingFunction = getTimingFunction(curve: curve)
+                layer.add(animation, forKey: "3d")
+                
+               
             case .FlipX:
                 rotate = 0
                 scaleX = 1
